@@ -4,7 +4,7 @@ Code and data associated with the paper
 
 > Hoyle, A., Wolf-Sonkin L., Wallach, H., Cotterell, R., and Augenstein, A. (2019). Combining Sentiment Lexica with a Multi-View Variational Autoencoder. NAACL-HLT.
 
-The main script, `vae.py`, should reproduce results from the paper.
+The main script, `vae.py`, should reproduce the combined representation from the paper.
 
 Since we have not scrutinized the licences for each resource, for the time being we will refrain from reproducing the individual sentiment lexica here. They may be found at the following locations (see paper for full citations):
 
